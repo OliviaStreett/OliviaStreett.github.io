@@ -1,4 +1,4 @@
-layout: default
+
 ---
 
 Olivia Streett (she/her) graduated with a B.A. in History from Roanoke College. Olivia Streett is a Ph.D. student in Modern European History and a Ph.D. minor in African Studies at Indiana University. Her current research centers on German colonialism, particularly the history of colonial Tanzania before the end of World War I. 
